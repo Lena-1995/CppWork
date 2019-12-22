@@ -1,11 +1,16 @@
 #pragma once
 #include "Person.h"
-class Student :
-	public Person
+#include <iostream>
+#include <string>
+using namespace std;
+class Student :public Person
 {
-
+private:
+	int average;
+	char instetute[10];
 public:
-	Student();
+	Student(int,string);
 	~Student();
+	void Print();
 };
 
