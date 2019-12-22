@@ -5,7 +5,7 @@
 Employee::Employee()
 {
 	cout << "Enter the salary of the employed person" << endl;
-	cin << Salary; 
+	cin >> Salary; 
 }
 
 
