@@ -1,0 +1,14 @@
+﻿  Employee.cpp
+  main.cpp
+c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\main.cpp(40): error C2065: 'Arr': undeclared identifier
+c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\main.cpp(40): error C2661: 'WorkingStudent::WorkingStudent': no overloaded function takes 6 arguments
+c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\main.cpp(46): error C2065: 'Arr': undeclared identifier
+  Person.cpp
+  Student.cpp
+c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\student.cpp(6): error C2075: 'Student::instetute': array initialization requires a brace-enclosed initializer list
+  WorkingStudent.cpp
+c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\workingstudent.cpp(8): error C2512: 'Student': no appropriate default constructor available
+  c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\student.h(6): note: see declaration of 'Student'
+c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\workingstudent.cpp(12): error C2512: 'Student': no appropriate default constructor available
+  c:\users\ygraman\desktop\study\project 2019-2020\cppwork\project1\project1\student.h(6): note: see declaration of 'Student'
+  Generating Code...
