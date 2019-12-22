@@ -15,5 +15,6 @@ public:
 	Person(string, long, int);
 	const Person();
 	~Person();
+	void Print();
 };
 
